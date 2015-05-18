@@ -6,7 +6,7 @@ permalink: /
 ---
 
 <div class="top-message">
-Information for students, schools, and anyone interested in finding resources on how to respond to and prevent sexual assault. Click below to find a crisis service, learn more about students' rights, schools' obligations to protect students from sexual assault, how to file a complaint with the Federal Government, and view a map of resolved school-level enforcement activities.
+Information for students, schools, and anyone interested in finding resources on how to respond to and prevent sexual assault. Click below to find a crisis service, learn more about students' rights, schools' obligations to protect students from sexual assault, how to file a complaint with the federal government, and view a map of resolved school-level enforcement activities.
 
 Throughout this website the term, “school” refers to all public educational
 institutions and all schools that receive federal funds, including
