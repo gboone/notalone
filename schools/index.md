@@ -111,7 +111,7 @@ To help schools carry out these principles, a sample reporting and confidentiali
 Student health records at most schools are protected by a federal law called FERPA.  For health care students receive outside of the school setting, in most cases, a federal law called HIPAA protects the information.  
 
 <div class="section-context-links">
-* [Read the answers to the frequently asked questions](http://www.hhs.gov/ocr/privacy/hipaa/faq/ferpa_and_hipaa/)
+* [View answers to frequently asked questions on FERPA and HIPAA and more detailed guidance on the application of FERPA and HIPAA to student health records](http://www.hhs.gov/ocr/privacy/hipaa/faq/ferpa_and_hipaa/)
 </div>
 </div>
 </div>
@@ -135,10 +135,10 @@ We have not endeavored with these checklists to provide schools with all the ans
 A school’s Title IX coordinator(s) is expected to play a critical role in helping a school ensure that every person affected by its operations—including faculty, staff, and students—are aware of their legal rights under Title IX, and that the school and all of its officials, through its policies, procedures, and practices, complies with its legal obligations under Title IX. This document provides sample language that can serve as a guide highlighting issues for schools to consider when assigning the Title IX coordinator functions and responsibilities related to their response to incidents of sexual misconduct. This resource uses higher-education specific language but its general principles also apply at the elementary and secondary school level.
 
 <div class="section-context-links">
-* [Read about the Role of a Title IX Coordinator]({{ site.baseurl }}/assets/role-of-title-ix-coordinator.pdf)
+* [Read about the role of a Title IX coordinator]({{ site.baseurl }}/assets/role-of-title-ix-coordinator.pdf)
 </div>
 
-### Definitions of key terms in sexual misconduct policies
+### Definitions of Key Terms in Sexual Misconduct Policies
 
 Under Title IX of the Education Amendments of 1972, any educational institution receiving federal financial assistance must notify the school community of its nondiscrimination policy, and must adopt and publish grievance procedures providing for the prompt and equitable resolution of sex discrimination complaints. This sample language will help schools ensure that students have a clear understanding of what constitutes sexual misconduct, when such conduct creates a hostile environment, the potential consequences for such conduct, and how the school processes complaints. This resource uses higher-education specific language but its general principles also apply at the elementary and secondary school level.
 
@@ -177,7 +177,7 @@ Colleges and universities can strengthen sexual assault prevention and response 
 Campuses and communities interested in building or strengthening sexual assault programs should consider applying for a grant through the Department of Justice Office on Violence Against Women.
 
 <div class="section-context-links">
-* [Click for additional information](http://www.ovw.usdoj.gov/ovwgrantprograms.htm)
+* [Click for additional information on the Office on Violence Against Women](http://www.ovw.usdoj.gov/ovwgrantprograms.htm)
 </div>
 
 #### The U.S. Department of Health and Human Services Office on Women's Health
@@ -192,7 +192,7 @@ The Office on Women's Health (OWH) of the U.S. Department of Health and Human Se
 The Centers for Disease Control and Prevention’s Rape Prevention and Education program (RPE) strengthens sexual violence prevention efforts at the local, state, and national level.  RPE grantees are located in all 50 states, the District of Columbia, Puerto Rico, and six U.S. territories.  Eligible grantees are state and territorial health departments.
 
 <div class="section-context-links">
-* [Click for additional information](http://www.cdc.gov/violencePrevention/RPE/index.html)
+* [Click for additional information on the Rape Prevention and Education program](http://www.cdc.gov/violencePrevention/RPE/index.html)
 </div>
 </div>
 
@@ -274,7 +274,7 @@ The goal of CDC’s RPE program is to strengthen sexual violence prevention effo
 
 <div class="section-context">
 <div class="section-context-text">
-#### National Sexual Violence Resource Center xCHANGE: Program Evaluation
+#### National Sexual Violence Resource Center xCHANGE Forum: Program Evaluation
 Program evaluation is a type of research. In some cases, external researchers or evaluators conduct an evaluation of a sexual violence program or agency. In many organizations, practitioners conduct evaluation to check for program effectiveness, impact, and value. Both researchers and practitioners can learn from one another in order to conduct high quality program evaluation.
 
 <div class="section-context-links">
@@ -294,7 +294,7 @@ A campus-wide approach to sexual violence and explore topics such as evaluating 
 </div>
 </div>
 
-## Resources for Institutions of Higher Education Only
+## Resources for Institutions of Higher Education
 <div class="section-context">
 ### Understanding FERPA, the Clery Act, and Title IX
 
@@ -305,16 +305,16 @@ We created a chart to help colleges and universities understand these requiremen
 Note that although elementary and secondary schools that receive federal funding must comply with Title IX and FERPA, they do not fall under the jurisdiction of the Clery Act.
 
 <div class="section-context-links">
-* [Review the FERPA/Clery/Title IX Chart]({{ site.baseurl }}/assets/ferpa-clerychart.pdf)
+* [Review the FERPA/Clery/Title IX chart]({{ site.baseurl }}/assets/ferpa-clerychart.pdf)
 </div>
 </div>
 
 <div class="section-context">
 ### Interim and supportive measures for victims
-Interim measures are the services, accommodations, or other assistance that colleges must provide to victims after notice of alleged sexual misconduct but before any final school outcomes – investigatory, disciplinary, or remedial – have been determined. This document provides assistance on how “interim measures” required by Title IX can be incorporated into a college’s sexual misconduct policy and offers sample policy language.  In addition, schools can offer supportive measures to victims who do not report the sexual violence, but are seeking assistance from through counselors and victim advocates. This sample language can help schools develop policies in both these areas.
+Interim measures are the services, accommodations, or other assistance that colleges must provide to victims after notice of alleged sexual misconduct but before any final school outcomes – investigatory, disciplinary, or remedial – have been determined. This document provides assistance on how “interim measures” required by Title IX can be incorporated into a college’s sexual misconduct policy and offers sample policy language.  In addition, schools can offer supportive measures to victims who do not report the sexual violence, but are seeking assistance from through counselors and victim advocates. This sample language can help schools develop policies in both these areas. Although the legal principles regarding interim measures apply to elementary and secondary schools, this document is relevant only to colleges and universities.
 
 <div class="section-context-links">
-* [Learn About Interim and Supportive Measures for Victims]({{ site.baseurl }}/assets/interim-and-supportive-measures.pdf)
+* [Learn about interim and supportive measures for victims]({{ site.baseurl }}/assets/interim-and-supportive-measures.pdf)
 </div>
 </div>
 
