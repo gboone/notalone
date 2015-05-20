@@ -6,11 +6,13 @@ permalink: /
 ---
 
 <div class="top-message">
-Information for students, schools, and anyone interested in finding resources on how to respond to and prevent sexual assault. Click below to find a crisis service, learn more about students' rights, schools' obligations to protect students from sexual assault, how to file a complaint with the federal government, and view a map of resolved school-level enforcement activities.
+NotAlone.gov includes information for students, schools, and anyone interested in finding resources on how to respond to and prevent sexual assault. 
+
+Click below to find a crisis service, learn more about students' rights, identify schools' obligations to protect students from sexual assault, understand how to file a complaint with the federal government, and view a map of resolved school-level enforcement activities.
 
 Throughout this website the term, “school” refers to all public educational
 institutions and all schools that receive federal funds, including
-elementary and secondary schools (including charter schools), school
+elementary and secondary schools (both traditional and charter), school
 districts, colleges, and universities. Sections of the website that are
 only applicable at the postsecondary or elementary and secondary school
 level add clarifying information.
