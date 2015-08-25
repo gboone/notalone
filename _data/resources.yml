@@ -104,7 +104,7 @@
   url: "http://www.ncavp.org"
   type:
     - organization
-  description: "The National Coalition of Anti-Violence Programs works to prevent, respond to, and end all forms of violence against and within LGBTQH communities. NCAVP is a national coalition of local member programs, affiliate organizations and individual affiliates who create systemic and social change. We strive to increase power, safety and resources through data analysis, policy advocacy, education and technical assistance."
+  description: "The National Coalition of Anti-Violence Programs works to prevent, respond to, and end all forms of violence against and within LGBTQH communities. NCAVP is a national coalition of local member programs, affiliate organizations and individual affiliates who create systemic and social change. We strive to increase power, safety and resources through data analysis, policy advocacy, education, and technical assistance."
   role:
     - lgbtq
 
@@ -216,9 +216,10 @@
   type:
     - prevention-programs
   url: "http://www.livethegreendot.com"
-  description: "A violence prevention strategy that can be adapted to different communities. "
+  description: "A prevention strategy that can be adapted to different communities. "
   role:
     - additional
+    - higher-education
 
 - name: "PreventConnect"
   type:
@@ -235,13 +236,14 @@
   description: "The Red Flag Campaign is a public awareness campaign designed to address dating violence and promote the prevention of dating violence on college campuses."
   role:
     - additional
+    - higher-education
 
 - name: "Safe Dates"
   type:
     - prevention-programs
     - public-awareness-education
   url: "http://www.nrepp.samhsa.gov/ViewIntervention.aspx?id=141"
-  description: "This program is designed to prevent the initiation of emotional, physical, and sexual abuse on dates or between individuals in a dating relationship; Designed for use by 8th and 9th grade students."
+  description: "This program is designed to prevent the initiation of emotional, physical, and sexual abuse on dates or between individuals in a dating relationship; Designed for use by eighth and ninth grade students."
   role:
     - additional
     - k-12
@@ -259,10 +261,11 @@
 - name: "Student Success’s Sexual Assault Prevention program"
   type:
     - prevention-programs
-  url: "http://public.studentsuccess.org/web/programs/sexual-assault-prevention"
-  description: "This program offers online sexual assault prevention training for college students."
+  url: "http://public.studentsuccess.org/"
+  description: "Student Success works with over 300 colleges and universities, creating research-driven, video-based online prevention programs that resonate with students intellectually, socially, and emotionally."
   role:
     - additional
+    - higher-education
 
 - name: "1 is 2 Many"
   type:
@@ -312,6 +315,7 @@
   description: "This project is a yearlong investigation into the handling of sexual assault reports by college campuses."
   role:
     - additional
+    - higher-education
 
 - name: "Coaching Boys Into Men Playbook (Copyright © Family Violence Prevention Fund)"
   type:
@@ -350,6 +354,7 @@
   description: "This list includes resources for administrators, student activists, and law enforcement, on such topics as primary prevention on campus, crime statistics, and training tools."
   role:
     - additional
+    - higher-education
 
 - name: "No More"
   type:
@@ -406,6 +411,7 @@
   description: "Know Your IX is a campaign that aims to educate all college students in the U.S. about their rights under Title IX."
   role:
     - additional
+    - higher-education
 
 - name: "Students Active for Ending Rape (SAFER)"
   type:
@@ -414,14 +420,7 @@
   description: "SAFER is an organization dedicated to empowering students to hold their universities accountable for having strong campus sexual assault policies and programming."
   role:
     - additional
-
-- name: "American Association of University Women"
-  type:
-    - survivor-services
-  url: "http://www.aauw.org"
-  description: "The AAUW is an advocacy and empowerment organization for women and girls."
-  role:
-    - additional
+    - higher-education
 
 - name: "Arte Sana"
   type:
@@ -438,6 +437,7 @@
   description: "Through their Black Women’s Truth and Reconciliation Commission (BWTRC), the Black Women’s Blueprint Project aims to secure political and economic equality in American society.  "
   role:
     - additional
+    - higher-education
 
 - name: "The Clery Center for Security on Campus "
   type:
@@ -446,14 +446,8 @@
   description: "The Clery Center educates and trains campus stakeholders about safety, prevention, peer intervention and Clery Act compliance. Clery Act compliance requires an understanding of counting and collecting crime statistics, emergency notification and timely warning policy, generation of an annual security report, and adherence to the campus sexual assault victim bill of rights."
   role:
     - additional
+    - higher-education
 
-- name: "Futures Without Violence: Preventing Violence Against Women on College Campuses"
-  type:
-    - survivor-services
-  url: "http://www.futureswithoutviolence.org/content/features/detail/1728/"
-  description: "Futures Without Violence provides resources for campuses to promote healthy relationships and to better help those affected by violence."
-  role:
-    - additional
 
 - name: "Institute on Domestic Violence in the African American Community"
   type:
@@ -478,6 +472,7 @@
   description: "Men Can Stop Rape offers individualized training and technical assistance to grantees on engaging men in the prevention of gender based violence. Trainings can include, but are not limited to: Coordinated Community Response team trainings on effective approaches to engaging men in prevention activities, training, and community awareness; workshops for campus students on raising awareness about rape as a men's issue; and general information to OVW Campus Program grantees."
   role:
     - additional
+    - higher-education
 
 - name: "National Alliance to End Sexual Violence (NAESV)"
   type:
@@ -487,7 +482,7 @@
   role:
     - additional
 
-- name: "The National Center on Domestic and Sexual Violence (NRCDV)"
+- name: "The National Center on Domestic and Sexual Violence (NCDSV)"
   type:
     - survivor-services
   url: "http://www.ncdsv.org"
@@ -542,6 +537,7 @@
   description: "Culture of Respect is a nonprofit organization strengthening sexual assault prevention efforts on college campuses."
   role:
     - additional
+    - higher-education
 
 - name: "MaleSurvivor"
   type:
@@ -563,6 +559,7 @@
 - name: "Rape, Abuse and Incest National Network (RAINN)"
   type:
     - survivor-services
+    - male-survivors
   url: "http://www.rainn.org"
   description: "RAINN is a national advocacy organization that operates the National Sexual Assault Hotline."
   role:
@@ -620,7 +617,7 @@
   type:
     - survivor-services
   url: "http://www.victimrights.org/about-vrlc"
-  description: "The Victim Rights Law Cneter provides national training for attorneys and advocates on issues of sexual assault."
+  description: "The Victim Rights Law Center provides national training for attorneys and advocates on issues of sexual assault."
   role:
     - additional
 
@@ -637,6 +634,7 @@
   description: "This coalition offers technical assistance to campuses in order to develop effective coordinated community responses that prevent and respond to sexual assault, domestic violence, dating violence and stalking."
   role:
     - additional
+    - higher-education
   type:
     - ovw-assistance-provider
 - name: Campus Clarity
@@ -644,6 +642,8 @@
   type:
     - public-awareness-education
   description: "Campus Clarity provides online training programs for students and universities."
+  role:
+    - higher-education
 
 - name: The Clery Center for Security on Campus
   url: "http://www.securityoncampus.org"
@@ -658,6 +658,7 @@
   description: "East Central University offers both executive/administrative peer-to-peer technical assistance, education and training to help grantees meet the mandatory law enforcement training component of the Campus Program. Serves as a mentor to campuses and their law enforcement/security departments and governing boards."
   role:
     - additional
+    - higher-education
   type:
     - ovw-assistance-provider
 
@@ -682,6 +683,7 @@
   description: "This coalitions provides comprehensive training that focuses on developing and implementing campus policies, protocols, and training programs for hearing officers and disciplinary boards to ensure more effective responses to the crimes of domestic violence, dating violence, sexual assault, and stalking on campus."
   role:
     - additional
+    - higher-education
   type:
     - ovw-assistance-provider
 
@@ -690,6 +692,7 @@
   description: "The Family Violence Prevention and Services Program supports the Domestic Violence Resource Network (DVRN) to strengthen domestic violence/dating violence intervention and prevention efforts at the individual, community and societal levels. The DVRN includes two national resource centers, four special issue resource centers, three culturally--specific Institutes, the National Domestic Violence Hotline, and the National Dating Abuse Helpline (loveisrespect.org).<br>http://www.acf.hhs.gov/programs/fysb/programs/family-violence-prevention-services/programs/center"
   role:
     - additional
+    - higher-education
   type:
     - ovw-assistance-provider
 
@@ -719,6 +722,8 @@
   type:
     - public-awareness-education
     - offender-treatment
+  role:
+    - k-12
   description: "Stop It Now is a national organization that works to organize communities around prevention resources, offering training, information, and resources for families and communities to prevent and respond to sexual violence."
 
 - name: "Substance Abuse and Mental Health Services Administration (SAMHSA)"
@@ -784,7 +789,8 @@
 - name: Association for the Treatment of Sexual Abusers
   description: ATSA offers an annual conference, fact sheets, and other materials for professionals working with adults, adolescents, or children.  In particular they have two summaries, one about adolescents and one about children that provide an overview of the issues facing this population.  
   url: http://www.atsa.com/
-  type: offender-treatment
+  type:
+    - offender-treatment
   role: additional
 - name: Center for Sex Offender Management
   description: CSOM offers the most in-depth selection of curricula, fact sheets, and a variety of other educational materials for anyone interested in learning more about adults, adolescents, or children who have caused sexual harm. 
@@ -806,3 +812,23 @@
   url: http://www.ncby.org/
   type: offender-treatment
   role: additional
+
+- name: "American Association of University Women"
+  type:
+    - survivor-services
+  url: "http://www.aauw.org"
+  description: "The AAUW is an advocacy and empowerment organization for women and girls."
+  role:
+    - higher-education
+- name: "Futures Without Violence: Preventing Violence Against Women on College Campuses"
+  type:
+    - additional
+  role:
+    - higher-education
+  url: http://www.futureswithoutviolence.org/
+  description: Futures Without Violence provides resources for campuses to promote healthy relationships and to better help those affected by violence.
+- name: Changing Our Campus Culture
+  url: http://www.changingourcampus.org/
+  description: "The Center for Changing Our Campus Culture: An Online Resource to Address Sexual Assault, Domestic Violence, Dating Violence and Stalking (The Center) is supported by the Department of Justice's Office on Violence Against Women in collaboration with its designated Campus Program Technical Assistance Provider Team. This comprehensive online clearinghouse provides important resources for colleges and universities on sexual assault, domestic violence, dating violence, and stalking."
+  type:
+    - ovw-assistance-provider

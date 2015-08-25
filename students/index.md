@@ -26,7 +26,7 @@ permalink: /students/
 Take care of your physical and emotional well-being. Remember that it was not your fault and you are not alone.
 
 #### Learn about common reactions to trauma.
-Everyone is different, but it is good to understand [what you might expect]({{ site.baseurl }}/assets/preventing-sexual-violence-on-college-campuses-lessons-from-research-and-practice.pdf) and know that others have experienced similar reactions.
+Everyone is different, but it is good to understand [what you might expect](https://cultureofrespect.org/help/help-for-you/ptsd/) and know that others have experienced similar reactions.
 
 #### Let others help.
 *	**Friends and family** can offer support by listening to you, keeping you company, walking to class or school with you, or going with you to appointments.
@@ -40,7 +40,7 @@ Everyone is different, but it is good to understand [what you might expect]({{ s
 * Recovery is an **ongoing gradual process**. Understand [common reactions after trauma](http://www.ptsd.va.gov/public/problems/common-reactions-after-trauma.asp). Some symptoms may appear months after an assault.
 * **Reach out** to your personal support network of friends and family. Find a support group.
 * **Talk to a counselor, social worker, or psychologist.** They are experienced in helping individuals who have been sexually assaulted. They are familiar with the physiological and psychological effects that traumatic events cause. They can help you work through your emotions and teach you coping skills. [Learn more](http://www.womenshealth.gov/mental-health/help/index.html).
-* If your school does not offer mental health services, [find a provider](http://samhsa.gov/tools/).
+* If your school does not offer mental health services, [find a provider](https://findtreatment.samhsa.gov/).
 
 ## How Can I Help a Friend?
 
@@ -51,7 +51,7 @@ Everyone is different, but it is good to understand [what you might expect]({{ s
 * Keep an eye out for common reactions associated with traumatic events.
 * Become an advocate. [Join or start an organization]({{ site.baseurl }}/resources).
 
-## How Can I Help as a Bystander?
+## [How Can I Help as a Bystander?](http://itsonus.org/)
 
 Tips for preventing sexual assault as a bystander:
 
@@ -106,7 +106,7 @@ The U.S. Department of Education’s Office for Civil Rights and the U.S. Depart
 <div class="section-context-text">
 If you believe you are a victim of sex-based discrimination by, in, or under an educational program receiving funding from the federal government, you can file a Title IX complaint with both the U.S. Department of Education and the U.S. Department of Justice (DOJ). Programs or activities receiving federal financial assistance include all public elementary and secondary schools (both traditional and charter) and postsecondary schools. Title IX also applies to most private colleges and universities because Title IX applies to any school that accepts students who pay, in part, with federal financial aid directly distributed to the students.  OCR also has jurisdiction over the few private elementary and secondary schools that are recipients of federal financial assistance.
 
-If you file a complaint of sex-based discrimination with the DOJ, it can also be reviewed under Title IV of the Civil Rights Act of 1964 (Title IV), which provides similar protections to Title IX at all public schools.
+If you file a complaint of sex-based discrimination with the DOJ, it can also be reviewed under Title IV of the Civil Rights Act of 1964, which provides similar protections to Title IX at all public schools.
 
 [See more information about filing complaints with the Departments of Justice and Education.]({{ site.baseurl }}/assets/how-to-file-a-complaint.pdf)
 
@@ -178,9 +178,9 @@ Sexual assault survivors respond in different ways. Some are able to be public a
 
 If you are ready to talk to someone, you should decide whether to talk to someone who works for the school or someone in the community.  In making that decision, you should know that not all of a school’s employees can maintain your confidentiality in all circumstances.
 
-In fact, some school employees – they’re sometimes called “responsible employees” – are required by federal law to share what they hear with others at the school so the school can investigate what happened and to take prompt action to address the situation. You should also be aware of any state or local mandatory reporting laws that may require certain employees (who may or may not be responsible employees) to share information you tell them with law enforcement or other authorities outside the school. Similarly, under federal law (the Family Educational Rights and Privacy Act), parents are entitled to access most records created by a school employee about an elementary or secondary school student. In addition, if you end up in a lawsuit with your school, the school may be able to access any records made by its employees and use them in court if they are relevant. Your school should make clear to whom you can turn to talk confidentiality. If you’re not sure if someone can maintain your confidentiality now and in the future – ask before you talk to them.
+In fact, some school employees – they’re sometimes called “responsible employees” – are required by federal law to share what they hear with others at the school so the school can investigate what happened and to take prompt action to address the situation. You should also be aware of any state or local mandatory reporting laws that may require certain employees (who may or may not be responsible employees) to share information you tell them with law enforcement or other authorities outside the school. Similarly, under federal law (the Family Educational Rights and Privacy Act), parents are entitled to access most records created by a school employee about an elementary or secondary school student. In addition, if you end up in a lawsuit with your school, the school may be able to access any records made by its employees and use them in court if they are relevant. Your school should make clear to whom you can turn to talk confidentially. If you’re not sure if someone can maintain your confidentiality now and in the future – ask before you talk to them.
 
-To help make you more aware of your options, we offer [a sample policy](https://www.notalone.gov/assets/reporting-confidentiality-policy.pdf) on reporting and confidentiality for colleges and universities to consider. As with all policies, we urge schools to involve students and parents of elementary and secondary school students in coming up with the best solutions.  But all policies should make clear, up front, who at each school must share what information with whom – and how a school should weigh a survivor’s request for confidentiality against its own obligation to provide a safe environment for all students. This sample policy uses higher-education specific language but its general principles also apply at the elementary and secondary school level.
+To help make you more aware of your options, we offer [a sample policy](https://www.notalone.gov/assets/reporting-confidentiality-policy.pdf) on reporting and confidentiality for colleges and universities to consider. All policies should make clear, up front, who at each school must share what information with whom – and how a school should weigh a survivor’s request for confidentiality against its own obligation to provide a safe environment for all students. This sample policy uses higher-education specific language but its general principles also apply at the elementary and secondary school level.
 
 
 In general, rape crisis center advocates not associated with the school can speak with you confidentially. But because state law is always changing, be sure to check the accuracy of this information.

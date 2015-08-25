@@ -17,7 +17,7 @@ State sexual assault coalitions are valuable resources to find services in your 
 
 ## Organizations and Services
 
-Many other websites provide information about campus sexual assault – what it is, how to get help, how to prevent assault, and ways to take action. We do not endorse any particular website, but want you to have access to lots of different resources.
+Many other websites provide information about campus sexual assault – what it is, how to get help, how to prevent assault, and ways to take action. We do not endorse any particular website, but want you to have access to many different resources.
 
 ### Advocacy/Survivor Services Organizations
 {% include resources-additional.html role="additional" type="survivor-services" %}
@@ -25,11 +25,14 @@ Many other websites provide information about campus sexual assault – what it 
 ### K-12 Resources
 {% include resources-additional.html role="k-12" type="public-awareness-education"%}
 
+### Higher Education Resources
+{% include resources.html role="higher-education" %}
+
 ### Student Groups
 {% include resources-additional.html role="additional" type="student-groups" %}
 
 ### LGBTQ Resources
-Many survivors identify as lesbian, gay, bisexual, or transgender (LGBT). Unfortunately, the LGBT community experiences sexual violence at high rates. One study found that 13.2% of bisexual men and 11.6% of gay men were raped in adulthood, compared to 1.6% of heterosexual men. [i](#i){: .cite} According to the CDC, 46% of bisexual women have been raped, compared to 13% of lesbians and 17% of heterosexual women. [ii](#ii){: .cite} Another study found that more than 25% of transgender individuals had been sexually assaulted after the age of 13. [iii](#iii){: .cite} All survivors, regardless of gender identity or sexual orientation, should be able to access resources. The below resources provide supportive, user-friendly services and information for survivors and allies.
+Many survivors identify as lesbian, gay, bisexual, transgender, or queer (LGBTQ). Unfortunately, the LGBT community experiences sexual violence at high rates. One study found that 13.2% of bisexual men and 11.6% of gay men were raped in adulthood, compared to 1.6% of heterosexual men. [i](#i){: .cite} According to the CDC, 46% of bisexual women have been raped, compared to 13% of lesbians and 17% of heterosexual women. [ii](#ii){: .cite} Another study found that more than 25% of transgender individuals had been sexually assaulted after the age of 13. [iii](#iii){: .cite} All survivors, regardless of gender identity or sexual orientation, should be able to access resources. The below resources provide supportive, user-friendly services and information for survivors and allies.
 
 {% include resources.html role="lgbtq" %}
 

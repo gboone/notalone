@@ -127,7 +127,7 @@ To help schools develop or reevaluate their policies we are providing elementary
 We have not endeavored with these checklists to provide schools with all the answers; again, depending on their size, mission, student body, location, administrative structure, and experience, school communities are best situated to decide for themselves what might work best.
 
 <div class="section-context-links">
-* [Read the sexual misconduct policy checklist]({{ site.baseurl }}/assets/checklist-for-campus-sexual-misconduct-policies.pdf)
+* [Read the checklist for campus sexual misconduct policies]({{ site.baseurl }}/assets/checklist-for-campus-sexual-misconduct-policies.pdf)
 </div>
 
 ### Role of Title IX Coordinator
@@ -263,7 +263,7 @@ Prevention efforts should ultimately decrease the number of individuals who perp
 
 <div class="section-context">
 <div class="section-context-text">
-#### Rape Prevention and Education (RPE) Program
+#### Centers for Disease Control Rape Prevention and Education (RPE) Program
 The goal of CDC’s RPE program is to strengthen sexual violence prevention efforts. Program activities are guided by a set of prevention principles that include: preventing first-time perpetration and victimization; reducing modifiable risk factors while enhancing protective factors; incorporating behavior and social change theories into prevention programs; using population-based surveillance to inform program decisions and monitor trends; and evaluating prevention efforts.
 
 <div class="section-context-links">
@@ -278,18 +278,7 @@ The goal of CDC’s RPE program is to strengthen sexual violence prevention effo
 Program evaluation is a type of research. In some cases, external researchers or evaluators conduct an evaluation of a sexual violence program or agency. In many organizations, practitioners conduct evaluation to check for program effectiveness, impact, and value. Both researchers and practitioners can learn from one another in order to conduct high quality program evaluation.
 
 <div class="section-context-links">
-* [Review the collection of program evaluation strategies](http://www.nsvrc.org/xchange-forum/program-evaluation)
-</div>
-</div>
-</div>
-
-<div class="section-context">
-<div class="section-context-text">
-#### Assessing Campus Readiness Manual
-A campus-wide approach to sexual violence and explore topics such as evaluating efforts, partnering with campus leaders, assessing campus readiness, and educating campus leaders created by Pennsylvania Coalition Against Rape.
-
-<div class="section-context-links">
-* [Review the Assessing Campus Readiness Manual](http://www.pcar.org/sites/default/files/file/CampusWholeBook_Web.pdf)
+* [Review the collection of program evaluation strategies](http://www.nsvrc.org/vocabularyf9/forum/487)
 </div>
 </div>
 </div>
@@ -311,7 +300,9 @@ Note that although elementary and secondary schools that receive federal funding
 
 <div class="section-context">
 ### Interim and supportive measures for victims
-Interim measures are the services, accommodations, or other assistance that colleges must provide to victims after notice of alleged sexual misconduct but before any final school outcomes – investigatory, disciplinary, or remedial – have been determined. This document provides assistance on how “interim measures” required by Title IX can be incorporated into a college’s sexual misconduct policy and offers sample policy language.  In addition, schools can offer supportive measures to victims who do not report the sexual violence, but are seeking assistance from through counselors and victim advocates. This sample language can help schools develop policies in both these areas.
+Interim measures are the services, accommodations, or other assistance that colleges must provide to victims after notice of alleged sexual misconduct but before any final school outcomes – investigatory, disciplinary, or remedial – have been determined.
+
+This document provides assistance on how “interim measures” required by Title IX can be incorporated into a college’s sexual misconduct policy and offers sample policy language.  In addition, schools can offer supportive measures to victims who do not report the sexual violence, but are seeking assistance from through counselors and victim advocates. This sample language can help schools develop policies in both these areas.
 
 <div class="section-context-links">
 * [Learn About Interim and Supportive Measures for Victims]({{ site.baseurl }}/assets/interim-and-supportive-measures.pdf)
@@ -344,5 +335,13 @@ This document created by the Centers for Disease Control and Prevention describe
 
 <div class="section-context-links">
 * [Read the CDC report on best practices for sexual violence prevention]({{ site.baseurl }}/assets/preventing-sexual-violence-on-college-campuses-lessons-from-research-and-practice.pdf)
+</div>
+</div>
+<div class="section-context">
+#### Assessing Campus Readiness Manual
+A campus-wide approach to sexual violence and explore topics such as evaluating efforts, partnering with campus leaders, assessing campus readiness, and educating campus leaders created by Pennsylvania Coalition Against Rape.
+
+<div class="section-context-links">
+* [Review the Assessing Campus Readiness Manual](http://www.pcar.org/sites/default/files/file/CampusWholeBook_Web.pdf)
 </div>
 </div>

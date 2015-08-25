@@ -1,5 +1,5 @@
 {::nomarkdown}
-{% for resource in site.data.resources %}
+{% for resource in site.data.resources |sort: "name" %}
 {% for role in resource.role %}
 {% if role == include.role %}
 
