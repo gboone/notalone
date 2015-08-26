@@ -5,7 +5,7 @@ description: Legal guidance, promising practices, and prevention resources for s
 permalink: /schools/
 ---
 
-## Legal Guidance
+## Federal Guidance
 <div class="section-context">
 ### Title IX Compliance Requirements
 <div class="section-context-text">
@@ -116,7 +116,7 @@ Student health records at most schools are protected by a federal law called FER
 </div>
 </div>
 
-## Developing Sexual Assault Policies and Procedures
+## Developing Sexual Misconduct Policies and Procedures
 
 ### Guide to Drafting a Sexual Assault Policy
 
@@ -268,6 +268,17 @@ The goal of CDC’s RPE program is to strengthen sexual violence prevention effo
 
 <div class="section-context-links">
 * [Review the Rape Prevention and Education (RPE) Program](http://www.cdc.gov/violenceprevention/rpe/index.html)
+</div>
+</div>
+</div>
+
+<div class="section-context">
+<div class="section-context-text">
+#### Sexual Misconduct Policy Messaging
+This report prepared by the Prevention Innovations Research Center at the University of New Hampshire describes research examining the efficacy of different methods to deliver campus sexual misconduct policy in­formation to first-year college students. This research furthers our understanding of strategies that can help schools better engage students, increase their knowledge of sexual misconduct polices and resources, and assist them in developing skills to prevent and respond to sexual assault.
+
+<div class="section-context-links">
+* [Review the Prevention Innovations Research Center's White Paper](http://cola.unh.edu/sites/cola.unh.edu/files/departments/Prevention%20Innovations%20Research%20Center/White_Paper_87367_for_web.pdf)
 </div>
 </div>
 </div>

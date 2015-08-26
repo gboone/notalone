@@ -36,9 +36,10 @@ April 29, 2014, we released our first report, which can be viewed here](https://
 {% include section-box.html title="How to File a Complaint" url="/students/#how-do-i-file-a-complaint-about-my-school-and-then-what-happens" image="file-a-complaint.png" text="Learn more about filing a complaint against your school." class="file-a-complaint" %}
 
 {% include section-box.html title="School-by-School Enforcement Map" url="/data/#school-by-school-enforcement-map" image="enforcement-map.png" text="View resolution agreements and compliance reports by the U.S. Departments of Education and Justice evaluating institutions' compliance with Title IX, Title IV, and the Clery Act." class="track-reports" %}
+
+{% include section-box.html title="CHANGING OUR CAMPUS CULTURE" url="http://www.changingourcampus.org/" image="changing-campus-culture.png" text="An Online Resource to Address Sexual Assault, Domestic Violence, Dating Violence and Stalking (The Center) is supported by the Department of Justice's Office on Violence Against Women in collaboration with its designated Campus Program Technical Assistance Provider Team. This comprehensive online clearinghouse provides important resources for colleges and universities on sexual assault, domestic violence, dating violence, and stalking." class="changing-our-campus" %}
 </div>
 
-{% include section-box.html title="CHANGING OUR CAMPUS CULTURE" url="http://www.changingourcampus.org/" image="" text="The Center for Changing Our Campus Culture: An Online Resource to Address Sexual Assault, Domestic Violence, Dating Violence and Stalking (The Center) is supported by the Department of Justice's Office on Violence Against Women in collaboration with its designated Campus Program Technical Assistance Provider Team. This comprehensive online clearinghouse provides important resources for colleges and universities on sexual assault, domestic violence, dating violence, and stalking." class="track-reports" %}
 <div class="top-message">
 
 </div>
