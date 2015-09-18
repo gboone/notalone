@@ -1,6 +1,6 @@
 ---
 layout: home
-subtitle: '"Perhaps most important, we need to keep saying to anyone out there who has ever been assaulted:  you are not alone. <br>We have your back.  I’ve got your back."<em class="citation">President Barack Obama, January 22, 2014</em>'
+subtitle: '"Perhaps most important, we need to keep saying to anyone out there who has ever been assaulted:  you are not alone. <br>We have your back. I’ve got your back."<em class="citation">President Barack Obama, January 22, 2014</em>'
 description: Sexual assault resources and information for students, schools, and advocates.
 permalink: /
 ---
@@ -23,7 +23,7 @@ January 22, 2014 – and since then, thousands of people have shared their
 stories and ideas about how best to eliminate sexual assault in schools. [On
 April 29, 2014, we released our first report, which can be viewed here](https://www.notalone.gov/assets/report.pdf).
 
-On September 17, 2015, we released a [Resource Guide](https://www.notalone.gov/assets/task-force-resource-guide-sep-15.pdf) to support the efforts of students, faculty, administrators, and communities around the country to prevent and improve the response to sexual violence at colleges and universities. [This guide](https://www.notalone.gov/assets/task-force-resource-guide-sep-15.pdf) includes links to Task Force deliverables as well as other federal and non-federal guidance and tools.
+On September 17, 2015, we released a [Resource Guide](https://www.notalone.gov/assets/task-force-resource-guide-sep-15.pdf) to support the efforts of students, faculty, administrators, and communities around the country to prevent and improve the response to sexual violence at colleges and universities. This guide includes links to documents, guidance, and tools from the task force and other advocacy groups.
 
 {::nomarkdown}
 <a class="btn action" href="#find-box">Explore</a>
